@@ -47,6 +47,10 @@ Titanic-EDA-Dashboard/
 │── EDA project.ipynb
 │── Titanic Dataset EDA Report.txt
 │── README.md
+│── images
+     │── dashboard1.png
+     │── dashboard2.png
+     │── dashboard3.png
 ```
 
 ---
