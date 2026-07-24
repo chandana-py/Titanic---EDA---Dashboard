@@ -102,7 +102,11 @@ http://127.0.0.1:8050
 
 ## Dashboard Preview
 
-![Titanic Dashboard](dashboard.png)
+<p align="center">
+  <img src="images/dashboard1.png" width="30%">
+  <img src="images/dashboard2.png" width="30%">
+  <img src="images/dashboard3.png" width="30%">
+</p>
 
 ---
 
