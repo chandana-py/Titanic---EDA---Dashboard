@@ -26,4 +26,5 @@ Titanic Dataset EDA Report
     - The interactive dashboard enhances data visualization and supports better interpretation of the dataset.
 
     - Dashboard Link:
-            <Paste your Plotly Cloud link here>
+            Currently runs locally using Dash.
+                    URL: http://127.0.0.1:8050
