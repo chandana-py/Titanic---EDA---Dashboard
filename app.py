@@ -14,6 +14,7 @@ fig3 = px.scatter(df,x = "Age", y="Fare",title = "Age vs Fare")
 
 # Create dashboard
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Titanic EDA Dashboard"),
