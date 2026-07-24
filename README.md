@@ -1,4 +1,4 @@
-# Titanic EDA Dashboard
+# EDA on  Titanic dataset
 
 ## 📌 Overview
 This project presents an interactive Exploratory Data Analysis (EDA) dashboard for the Titanic dataset using Python, Pandas, Plotly, and Dash. It demonstrates the complete EDA workflow, including data preprocessing, visualization, pattern analysis, and an interactive dashboard for exploring the dataset.
