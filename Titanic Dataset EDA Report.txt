@@ -1,0 +1,29 @@
+Titanic Dataset EDA Report
+1. overview
+    - Dataset contents 891 rows and 12 columns.
+    - Missing values handled for "Age" (filled with median) and "Embarked" (filled with mode).
+
+2. Key Insights:
+    - Survival rates are highest for first-class passengers (62%) and lower for third-class(24%).
+    - Majority of passengers are aged between 20-40 years.
+    - A positive correlation exists between fare and survival.
+
+3. Visual Insights:
+    - Bar chart : survival rates by class
+    - Histogram plot : Age distribution
+    - Scatter plot : Age vs Fare
+    - Heatmap : Correlation between numerical columns
+
+4 . Interactive Dashboard : 
+    - Developed an interactive dashboard using Plotly Dash.
+    - The dashboard presents key visualizations, including:
+        a. Survival Rate by Passenger Class
+        b. Age Distribution of Passengers
+        c.Age vs. Fare Scatter Plot
+    - The dashboard enables interactive data exploration through features such as zooming, panning, and hover tooltips.
+    - The dashboard provides a clear and user-friendly interface for understanding the insights obtained from the EDA.
+    - Successfully published the dashboard on Plotly Cloud, making it accessible online for viewing and sharing.
+    - The interactive dashboard enhances data visualization and supports better interpretation of the dataset.
+
+    - Dashboard Link:
+            <Paste your Plotly Cloud link here>
